@@ -12,11 +12,26 @@
 
 // console.log(edediOrta());
 
-function yaziCeviren(yazi) {
-  yazi = yazi.split("");
-  yazi = yazi.reverse();
-  yazi = yazi.join("");
-  console.log(yazi);
-}
+// home work 2
 
-yaziCeviren("salam");
+// function yaziCeviren(yazi) {
+//   yazi = yazi.split("");
+//   yazi = yazi.reverse();
+//   yazi = yazi.join("");
+//   console.log(yazi);
+// }
+
+// yaziCeviren("salam");
+
+// home work 3
+// !faktorialın nə olduğunu bilmdəyim üçün gptyə yazdırdım
+
+// function factorial(n) {
+//     if (n === 0 || n === 1) {
+//         return 1;
+//     } else {
+//         return n * factorial(n - 1);
+//     }
+// }  
+// console.log(factorial(5))
+
