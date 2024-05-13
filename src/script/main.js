@@ -32,6 +32,34 @@
 //     } else {
 //         return n * factorial(n - 1);
 //     }
-// }  
+// }
 // console.log(factorial(5))
 
+// home work 4
+
+// function bigFruit() {
+//   let fruits = ["apple", "orange", "strawberry"];
+//   let longestFruit = fruits[0];
+
+//   for (let i = 1; i < fruits.length; i++) {
+//     if (fruits[i].length > longestFruit.length) {
+//       longestFruit = fruits[i];
+//     }
+//   }
+//   return longestFruit;
+// }
+
+// console.log(bigFruit());
+
+// home work 5
+// function topla() {
+//   let num = [1, 44, 14, 11, 23, -5, -14, 6];
+//   let toplam = 0;
+
+//   for (let i = 0; i < num.length; i++) {
+//     toplam += num[i];
+//   }
+//   console.log("Toplam:", toplam);
+// }
+
+// topla();
